@@ -1,8 +1,4 @@
-## Go Picasso!
-
-## Overview
-
-## App Features
+## App Overview
 
 ## Demo Video
 
